@@ -1,0 +1,6 @@
+$\Delta S$ is de bergingsverandering, de logica hierachter is misschien wat vergezocht.
+Alles in de formule van de waterbalans gaat over de toe/afvoer t.o.v. het balansgebied. 
+> _Volgens de formule zal een aanvoer van water in het balansgebied altijd een positief getal zijn. De afvoer van water zal altijd een negatieve waarde hebben._
+
+De bergingsverandering werkt op dezelfde manier. De berging wordt dus ook gezien als een bron die het balansgebied van water kan voorzien. 
+Stroomt er dus water uit de berging, dan stroomt dit het balansgebied in en hebben we dus een aanvoer van water. Andersom kan de berging water opnemen en dan voeren we water af uit het balansgebied. $\Delta S$ staat voor de af/aanvoer van water in het balansgebied vanuit de berging. Het is dus belangrijk om te bedenken dat een negatieve waarde voor $\Delta S$ staat voor een afvoer uit het balansgebied en de berging in gaat. Een positieve waarde van $\Delta S$ betekent dat er water vanuit de berging het balansgebied in 'stroomt'.

@@ -1,0 +1,1 @@
+Bij balansstudies bestudeert men voor ene geselecteerd gebied gedurende een bepaalde periode [[De posten uit de kringloop van het water|de posten uit de kringloop van het water]]: Aanvoer - Afvoer + bergingsverandering = 0
